@@ -1,0 +1,15 @@
+Root Admin
+	User	: nirjhor@adnsl.net
+	Pass	: abc123
+
+Content Manager
+	User	: jobayer@tusher.com.bd
+	Pass	: abc123
+
+Sales Manager
+	User	: roni@piit.us
+	Pass	: abc123
+
+Technical Operator
+	User	: momin@piit.us
+	Pass	: abc123

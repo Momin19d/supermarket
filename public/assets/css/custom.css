@@ -1,0 +1,22 @@
+.home-slider .owl-stage-outer {
+	height: 400px;
+}
+.home-product-tabs .product-image-container .product-image img, 
+.products-body .product-image-container .product-image img,
+.relevant-product .product-image-container .product-image img {
+	height: 300px;
+}
+.pull-center {
+	text-align: center;
+	float: center;
+}
+.paction span {
+	padding-bottom: 3px;
+}
+.cart_page_image img {
+	height: 100px !important;
+	width: 70px !important;
+}
+.cart-quantity {
+	width: 70px !important;
+}
